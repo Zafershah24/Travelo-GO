@@ -176,7 +176,7 @@ class _MyHomePageState extends State<MyHomePage>
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
               Text(
-                'Maldives Summer',
+                'Maldives Summer Beaches',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontFamily: 'Montserrat',
