@@ -210,7 +210,7 @@ class _MyHomePageState extends State<MyHomePage>
               )
             ],
           ),
-          SizedBox(width: 79.0),
+          SizedBox(width: 79.5),
           Row(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
